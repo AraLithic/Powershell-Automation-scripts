@@ -1,0 +1,1 @@
+PixelLauncher is a custom PowerShell-based launcher that automates daily workflows using simple commands from the terminal. Whether you're a developer, student, or keyboard-loving nerd — this tool turns your PowerShell into a productivity weapon.
