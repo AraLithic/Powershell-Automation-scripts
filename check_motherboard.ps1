@@ -5,9 +5,9 @@
 	This PowerShell script lists the motherboard details.
 .EXAMPLE
 	PS> ./check-motherboard.ps1
-	✅ Motherboard Calla_LC by Aralithic
+	✅ Motherboard Statius by Aralithic
 .LINK
-	https://github.com/fleschutz/PowerShell
+	https://github.com/Aralithic/PowerShell-Automation-scripts
 .NOTES
 	Author: Sayed Umair Ali
 #>
