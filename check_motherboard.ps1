@@ -9,7 +9,7 @@
 .LINK
 	https://github.com/Aralithic/PowerShell-Automation-scripts
 .NOTES
-	Author: Sayed Umair Ali
+	Author: Sayed Umair Ali (Aralithic)
 #>
 
 try {
