@@ -12,7 +12,7 @@
 .EXAMPLE
 	PS> ./add-firewall-rules.ps1 -PathToExecutables C:\MyApp\bin -Direction Outbound -Profile Private
 .LINK
-	https://github.com/AraLithic/PowerShell-Automation
+	https://github.com/AraLithic/PowerShell-Automation-scripts
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
