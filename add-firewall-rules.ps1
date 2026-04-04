@@ -14,7 +14,7 @@
 .LINK
 	https://github.com/AraLithic/PowerShell-Automation-scripts
 .NOTES
-	Author: Sayed Umair| License: CC0
+	Author: Sayed Umair Ali| License: MIT
 #>
 
 #Requires -RunAsAdministrator
